@@ -4,7 +4,8 @@ This is a Food Ordering Web Application .
 
 • Developed using React
 • Users can add food items to the cart, order and then checkout to place the order
-• Redux to manage the state and used Firebase as the backend and to deploy the app
+• Used Redux to manage the state and Firebase as the backend
+• The app is deployed on Firebase
 
 ### To run the app
 
